@@ -6,5 +6,8 @@ import io.ktor.server.routing.*
 
 fun Application.configureRouting() {
     routing {
+        get("/products"){
+            call.respondText("A list of products")
+        }
     }
 }
