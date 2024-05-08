@@ -1,1 +1,1 @@
-rootProject.name = "ktor-store-demo"
+rootProject.name = "com.linkedinlearning.ktor-store-demo"
