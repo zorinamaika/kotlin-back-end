@@ -1,3 +1,3 @@
 Ktor
-Kotlin project
+Kotlin Application
 *in progress*
